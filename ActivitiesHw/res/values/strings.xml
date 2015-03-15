@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivitiesHw</string>
+    <string name="default_text">Default Text</string>
+    <string name="enter_text">Enter Text</string>
+	<string name="ok">OK</string>
+	
+	<string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tortor eros, volutpat non eleifend eu,
+	     condimentum at quam. Aliquam sit amet cursus nibh. Vestibulum nec nisl efficitur, elementum mi ac, tempor mauris. 
+	     In euismod, nulla non cursus lacinia, augue orci ornare magna, quis posuere felis justo eu est. Mauris neque nulla, 
+	     vehicula eu porta non, laoreet at libero. Integer dapibus semper libero id gravida. Curabitur et vestibulum mi, 
+	     luctus lobortis urna. Sed euismod, nibh eu tempus finibus, enim lectus commodo magna, 
+	     sit amet pretium urna mauris non ante. Praesent ultricies eget erat quis elementum</string>
+	     
+	<string name="enter_word">Enter Word</string>
+	<string name="search_title">Search</string>
+	<string name="definintion"> Definition \nLorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+	<string name="replace_word_with">Replace Word With</string>
+	<string name="cancel">Cancel</string>
+</resources>

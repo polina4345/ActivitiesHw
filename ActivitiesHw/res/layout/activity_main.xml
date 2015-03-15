@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/border"
+    tools:context="com.example.activitieshw.MainActivity" >
+
+    <Button
+        android:id="@+id/btn_default_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        style="@style/ButtonStyle"
+        android:text="@string/default_text"/>
+    
+    <Button
+        android:id="@+id/btn_enter_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="@string/enter_text"/>
+    
+    <EditText
+        android:id="@+id/et_enter_text"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="8dp" />    
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_ok"
+        android:visibility="gone"
+        style="@style/ButtonStyle"
+        android:text="@string/ok"/>
+
+</LinearLayout>
